@@ -1,0 +1,3 @@
+[submodule "news-feeds"]
+	path = news-feeds
+	url = https://github.com/rajkumararisetty/news-feeds
